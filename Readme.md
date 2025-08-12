@@ -3,7 +3,7 @@
 ## Warren Denzel F. Cheng
 
 ## Introduction
-A series of exercises that involve the use of inheritance in Java programming to explore its intracies and how it is implemented.
+A series of exercises that involve the use of inheritance in Java programming to explore its intricacies and how it is implemented.
 
 ## Exercises
 1. **BASIC INHERITANCE: THE `extends` KEYWORD**
